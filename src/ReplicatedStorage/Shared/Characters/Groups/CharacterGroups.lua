@@ -1,0 +1,3 @@
+local CharacterGroups = {}
+
+return CharacterGroups

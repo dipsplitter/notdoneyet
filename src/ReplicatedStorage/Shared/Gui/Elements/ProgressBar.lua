@@ -1,0 +1,3 @@
+local ProgressBar = {}
+
+return ProgressBar

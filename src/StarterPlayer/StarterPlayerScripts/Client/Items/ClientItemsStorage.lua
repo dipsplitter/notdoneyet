@@ -1,0 +1,3 @@
+local ClientItemsStorage = {}
+
+return ClientItemsStorage
